@@ -332,17 +332,97 @@ If the business collects any of the following:
 - racial or ethnic origin, religious or philosophical beliefs, union membership
 - the contents of email and text, unless the business is the intended recipient of the communication
 - genetic data, biometric data, and health data
-- data concerning sexual orientation and sex lifeyou have the right to direct that business to limit its use of your sensitive personal information to that use which is necessary to perform the Services.Once a business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.To exercise your right to limit use and disclosure of sensitive personal information, please email samuellupton@icloud.com or submit a data subject access request.Verification processUpon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.Other privacy rights
-• You may object to the processing of your personal information.
-• You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
-• You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
-• You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.To exercise these rights, you can contact us by email at samuellupton@icloud.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.10. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?In Short: Yes, if you are a resident of Virginia, you may be granted specific rights regarding access to and use of your personal information.Virginia CDPA Privacy NoticeUnder the Virginia Consumer Data Protection Act (CDPA):"Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context."Personal data" means any information that is linked or reasonably linkable to an identified or identifiable natural person. "Personal data" does not include de-identified data or publicly available information."Sale of personal data" means the exchange of personal data for monetary consideration.If this definition "consumer" applies to you, we must adhere to certain rights and obligations regarding your personal data.The information we collect, use, and disclose about you will vary depending on how you interact with us and our Services. To find out more, please visit the following links:
-• Personal data we collect
-• How we use your personal data
-• When and with whom we share your personal dataYour rights with respect to your personal data
-• Right to be informed whether or not we are processing your personal data
-• Right to access your personal data
-• Right to correct inaccuracies in your personal data
-• Right to request deletion of your personal data
-• Right to obtain a copy of the personal data you previously shared with us
-• Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")We have not sold any personal data to third parties for business or commercial purposes. We will not sell personal data in the future belonging to website visitors, users, and other consumers.Exercise your rights provided under the Virginia CDPAMore information about our data collection and sharing practices can be found in this privacy notice.You may contact us by email at samuellupton@icloud.com, by submitting a data subject access request, or by referring to the contact details at the bottom of this document.If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.Verification processWe may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.Right to appealIf we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at samuellupton@icloud.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.11. DO WE MAKE UPDATES TO THIS NOTICE?In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?If you have questions or comments about this notice, you may email us at samuellupton@icloud.com or contact us by post at:Xify17304 Avila LnOklahoma City, OK 73170-6639United States13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
+- data concerning sexual orientation and sex life
+
+you have the right to direct that business to limit its use of your sensitive personal information to that use which is necessary to perform the Services.
+
+Once a business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.
+
+Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.
+
+To exercise your right to limit use and disclosure of sensitive personal information, please email samuellupton@icloud.com or submit a data subject access request.
+
+Verification process
+
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
+
+We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
+
+Other privacy rights
+
+- You may object to the processing of your personal information.
+- You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
+- You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
+- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
+
+To exercise these rights, you can contact us by email at samuellupton@icloud.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+
+## 10. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+In Short: Yes, if you are a resident of Virginia, you may be granted specific rights regarding access to and use of your personal information.
+
+Virginia CDPA Privacy Notice
+
+Under the Virginia Consumer Data Protection Act (CDPA):
+
+"Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.
+
+"Personal data" means any information that is linked or reasonably linkable to an identified or identifiable natural person. "Personal data" does not include de-identified data or publicly available information.
+
+"Sale of personal data" means the exchange of personal data for monetary consideration.
+
+If this definition "consumer" applies to you, we must adhere to certain rights and obligations regarding your personal data.
+
+The information we collect, use, and disclose about you will vary depending on how you interact with us and our Services. To find out more, please visit the following links:
+- Personal data we collect
+- How we use your personal data
+- When and with whom we share your personal data
+
+Your rights with respect to your personal data
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+
+We have not sold any personal data to third parties for business or commercial purposes. We will not sell personal data in the future belonging to website visitors, users, and other consumers.
+
+Exercise your rights provided under the Virginia CDPA
+
+More information about our data collection and sharing practices can be found in this privacy notice.
+
+You may contact us by email at samuellupton@icloud.com, by submitting a data subject access request, or by referring to the contact details at the bottom of this document.
+
+If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
+
+Verification process
+
+We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.
+
+Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
+
+Right to appeal
+
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at samuellupton@icloud.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.
+
+## 11. DO WE MAKE UPDATES TO THIS NOTICE?
+
+In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
+
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+If you have questions or comments about this notice, you may email us at samuellupton@icloud.com or contact us by post at:
+
+Dumbell: Health and Fitness
+
+17304 Avila Ln
+Oklahoma City, OK 73170-6639
+United States
+
+## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
