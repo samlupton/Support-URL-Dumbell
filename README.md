@@ -273,28 +273,66 @@ Account login information
 ### YES
 
 We will use and retain the collected personal information as needed to provide the Services or for:
-• Category A - As long as the user has an account with us
-• Category B - As long as the user has an account with us
-• Category L - As long as the user has an account with usCategory L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
-• Receiving help through our customer support channels;
-• Participation in customer surveys or contests; and
-• Facilitation in the delivery of our Services and to respond to your inquiries.How do we use and share your personal information?More information about our data collection and sharing practices can be found in this privacy notice.You may contact us by email at samuellupton@icloud.com, or by referring to the contact details at the bottom of this document.If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.Will your information be shared with anyone else?We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf, following the same strict privacy protection obligations mandated by the CCPA.We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.Your rights with respect to your personal dataRight to request deletion of the data — Request to deleteYou can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.Right to be informed — Request to knowDepending on the circumstances, you have a right to know:
-• whether we collect and use your personal information;
-• the categories of personal information that we collect;
-• the purposes for which the collected personal information is used;
-• whether we sell or share personal information to third parties;
-• the categories of personal information that we sold, shared, or disclosed for a business purpose;
-• the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
-• the business or commercial purpose for collecting, selling, or sharing personal information; and
-• the specific pieces of personal information we collected about you.In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.Right to Non-Discrimination for the Exercise of a Consumer’s Privacy RightsWe will not discriminate against you if you exercise your privacy rights.Right to Limit Use and Disclosure of Sensitive Personal InformationIf the business collects any of the following:
-• social security information, drivers' licenses, state ID cards, passport numbers
-• account login information
-• credit card numbers, financial account information, or credentials allowing access to such accounts
-• precise geolocation
-• racial or ethnic origin, religious or philosophical beliefs, union membership
-• the contents of email and text, unless the business is the intended recipient of the communication
-• genetic data, biometric data, and health data
-• data concerning sexual orientation and sex lifeyou have the right to direct that business to limit its use of your sensitive personal information to that use which is necessary to perform the Services.Once a business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.To exercise your right to limit use and disclosure of sensitive personal information, please email samuellupton@icloud.com or submit a data subject access request.Verification processUpon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.Other privacy rights
+
+- Category A - As long as the user has an account with us
+- Category B - As long as the user has an account with us
+- Category L - As long as the user has an account with us
+
+Category L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+
+- Receiving help through our customer support channels;
+- Participation in customer surveys or contests; and
+- Facilitation in the delivery of our Services and to respond to your inquiries.
+
+How do we use and share your personal information?
+
+More information about our data collection and sharing practices can be found in this privacy notice.
+
+You may contact us by email at samuellupton@icloud.com, or by referring to the contact details at the bottom of this document.
+
+If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.Will your information be shared with anyone else?
+
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf, following the same strict privacy protection obligations mandated by the CCPA.
+
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
+
+We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+
+Your rights with respect to your personal data
+
+Right to request deletion of the data — Request to deleteYou can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
+
+Right to be informed — Request to know
+
+Depending on the circumstances, you have a right to know:
+
+- whether we collect and use your personal information;
+- the categories of personal information that we collect;
+- the purposes for which the collected personal information is used;
+- whether we sell or share personal information to third parties;
+- the categories of personal information that we sold, shared, or disclosed for a business purpose;
+- the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
+- the business or commercial purpose for collecting, selling, or sharing personal information; and
+- the specific pieces of personal information we collected about you.
+
+In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
+
+Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+
+We will not discriminate against you if you exercise your privacy rights.
+
+Right to Limit Use and Disclosure of Sensitive Personal Information
+
+If the business collects any of the following:
+
+- social security information, drivers' licenses, state ID cards, passport numbers
+- account login information
+- credit card numbers, financial account information, or credentials allowing access to such accounts
+- precise geolocation
+- racial or ethnic origin, religious or philosophical beliefs, union membership
+- the contents of email and text, unless the business is the intended recipient of the communication
+- genetic data, biometric data, and health data
+- data concerning sexual orientation and sex lifeyou have the right to direct that business to limit its use of your sensitive personal information to that use which is necessary to perform the Services.Once a business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.Please note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.To exercise your right to limit use and disclosure of sensitive personal information, please email samuellupton@icloud.com or submit a data subject access request.Verification processUpon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.Other privacy rights
 • You may object to the processing of your personal information.
 • You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
 • You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
