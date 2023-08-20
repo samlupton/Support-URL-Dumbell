@@ -197,7 +197,82 @@ What categories of personal information do we collect?
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
-CategoryExamplesCollectedA. IdentifiersContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account nameYESB. Personal information categories listed in the California Customer Records statuteName, contact information, education, employment, employment history, and financial informationYESC. Protected classification characteristics under California or federal lawGender and date of birthNOD. Commercial informationTransaction information, purchase history, financial details, and payment informationNOE. Biometric informationFingerprints and voiceprintsNOF. Internet or other similar network activityBrowsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisementsNOG. Geolocation dataDevice locationNOH. Audio, electronic, visual, thermal, olfactory, or similar informationImages and audio, video or call recordings created in connection with our business activitiesNOI. Professional or employment-related informationBusiness contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with usNOJ. Education InformationStudent records and directory informationNOK. Inferences drawn from other personal informationInferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristicsNOL. Sensitive Personal InformationAccount login informationYESWe will use and retain the collected personal information as needed to provide the Services or for:
+Category
+Examples
+Collected
+A. Identifiers
+
+Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
+
+### YES
+
+B. Personal information categories listed in the California Customer Records statute
+
+Name, contact information, education, employment, employment history, and financial information
+
+### YES
+
+C. Protected classification characteristics under California or federal law
+
+Gender and date of birth
+
+### NO
+
+D. Commercial information 
+
+Transaction information, purchase history, financial details, and payment information 
+
+### NO
+
+E. Biometric information
+
+Fingerprints and voiceprints
+
+### NO
+
+F. Internet or other similar network activity
+
+Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
+
+### NO
+
+G. Geolocation data
+
+Device location
+
+### NO
+
+H. Audio, electronic, visual, thermal, olfactory, or similar information
+
+Images and audio, video or call recordings created in connection with our business activities
+
+### NO
+
+I. Professional or employment-related information
+
+Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
+
+###NO
+
+J. Education Information
+
+Student records and directory information
+
+### NO
+
+K. Inferences drawn from other personal information
+
+Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
+
+### NO
+
+L. Sensitive Personal Information
+
+Account login information
+
+### YES
+
+We will use and retain the collected personal information as needed to provide the Services or for:
 • Category A - As long as the user has an account with us
 • Category B - As long as the user has an account with us
 • Category L - As long as the user has an account with usCategory L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
