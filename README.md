@@ -46,7 +46,15 @@ TABLE OF CONTENTS
 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 7. WHAT ARE YOUR PRIVACY RIGHTS?
 8. CONTROLS FOR DO-NOT-TRACK FEATURES
-9. 9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?10. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?11. DO WE MAKE UPDATES TO THIS NOTICE?12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?1. WHAT INFORMATION DO WE COLLECT?Personal information you disclose to usIn Short: We collect personal information that you provide to us.We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+10. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+11. DO WE MAKE UPDATES TO THIS NOTICE?
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+# 1. WHAT INFORMATION DO WE COLLECT?
+
+Personal information you disclose to usIn Short: We collect personal information that you provide to us.We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 • names
 • email addresses
 • usernames
